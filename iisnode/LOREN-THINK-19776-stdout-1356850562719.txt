@@ -343,3 +343,553 @@ debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=13568
 debug: setting poll timeout
 debug: discarding transport
 debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850877284
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850877661
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356850884672
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850897320
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850897726
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356850904704
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850917362
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850917864
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356850924734
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850937386
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850937931
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356850944767
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850957425
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850958185
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356850964801
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850977477
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850978306
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356850984825
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356850997504
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356850998362
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356851004862
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356851017523
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851018426
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356851024884
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356851037556
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851039168
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356851044919
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356851057591
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851059257
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356851064938
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/PBEdlov8s9U7heEImIdo?t=1356851077622
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PBEdlov8s9U7heEImIdo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851079309
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/v0HmeW7CM2MlWG3zmIdn?t=1356851084975
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PBEdlov8s9U7heEImIdo
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851099429
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client v0HmeW7CM2MlWG3zmIdn
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851119513
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851139611
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: fired close timeout for client PBEdlov8s9U7heEImIdo
+info: transport end (close timeout)
+debug: discarding transport
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851159726
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: fired close timeout for client v0HmeW7CM2MlWG3zmIdn
+info: transport end (close timeout)
+debug: discarding transport
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851179786
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851199858
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851219938
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851240017
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851260093
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851280201
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851300314
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851320388
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851340469
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851360541
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851380617
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851400682
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851420775
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851440834
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851460925
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851480998
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851501128
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851521188
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851541369
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851561441
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851581530
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851601672
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851621804
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851641857
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851661983
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851682044
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851702175
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851722292
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851742416
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client eMAgJsbK7RcWU4YnmIdp
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/eMAgJsbK7RcWU4YnmIdp?t=1356851762559
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client eMAgJsbK7RcWU4YnmIdp
