@@ -1,0 +1,36 @@
+info: socket.io started
+Express server listening on port NaN in development mode
+debug: served static content /socket.io.js
+debug: setting request GET /socket.io/1/xhr-polling/ibLtKedx_zP-6AtFigcq?t=1356849648299
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 7:::1+0
+debug: set close timeout for client ibLtKedx_zP-6AtFigcq
+warn: client not handshaken client should reconnect
+info: transport end (error)
+debug: cleared close timeout for client ibLtKedx_zP-6AtFigcq
+debug: discarding transport
+debug: discarding transport
+debug: xhr-polling received data packet 0::
+debug: got disconnection packet
+debug: client authorized
+info: handshake authorized 06nZRL3tSOUym857iokE
+debug: setting request GET /socket.io/1/xhr-polling/06nZRL3tSOUym857iokE?t=1356849649077
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client 06nZRL3tSOUym857iokE
+debug: setting request GET /socket.io/1/xhr-polling/06nZRL3tSOUym857iokE?t=1356849649089
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"this","args":[{"will":"be received by everyone"}]}
+debug: set close timeout for client 06nZRL3tSOUym857iokE
+debug: discarding transport
+debug: cleared close timeout for client 06nZRL3tSOUym857iokE
+debug: setting request GET /socket.io/1/xhr-polling/06nZRL3tSOUym857iokE?t=1356849649102
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client 06nZRL3tSOUym857iokE
+debug: served static content /socket.io.js
+debug: clearing poll timeout

@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>iisnode logs</title>
+    <style type="text/css">
+        body
+        {
+            font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+        }
+        table
+        {
+            border-collapse: collapse;
+        }
+        td, th
+        {
+            border: 1px solid lightgray;
+            padding: 3px 7px 2px 7px;
+        }
+        th
+        {
+            text-align: left;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            background-color: Gray;
+            color: #ffffff;
+        }
+        td.stderr
+        {
+            color: Red;
+        }
+    </style>
+</head>
+<body>
+    <table id="logFilesTable">
+        <tr>
+            <th>
+                Computer name
+            </th>
+            <th>
+                PID
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Link
+            </th>
+        </tr>
+    </table>
+    <p id="lastUpdated"></p>
+    <script type="text/javascript">
+
+        // this is replaced with actual data at runtime by code in interceptor.js
+        var logFiles = [{"file":"LOREN-THINK-11056-stdout-1356849668198.txt","computername":"LOREN-THINK","pid":11056,"type":"stdout","created":1356849668198},{"file":"LOREN-THINK-16056-stdout-1356849327758.txt","computername":"LOREN-THINK","pid":16056,"type":"stdout","created":1356849327758},{"file":"LOREN-THINK-16200-stdout-1356849884347.txt","computername":"LOREN-THINK","pid":16200,"type":"stdout","created":1356849884347},{"file":"LOREN-THINK-17376-stdout-1356849385495.txt","computername":"LOREN-THINK","pid":17376,"type":"stdout","created":1356849385495},{"file":"LOREN-THINK-19428-stdout-1356849144985.txt","computername":"LOREN-THINK","pid":19428,"type":"stdout","created":1356849144985},{"file":"LOREN-THINK-19464-stdout-1356849460940.txt","computername":"LOREN-THINK","pid":19464,"type":"stdout","created":1356849460940},{"file":"LOREN-THINK-19776-stdout-1356850562719.txt","computername":"LOREN-THINK","pid":19776,"type":"stdout","created":1356850562719},{"file":"LOREN-THINK-19800-stderr-1356848953129.txt","computername":"LOREN-THINK","pid":19800,"type":"stderr","created":1356848953129},{"file":"LOREN-THINK-19800-stdout-1356848953128.txt","computername":"LOREN-THINK","pid":19800,"type":"stdout","created":1356848953128},{"file":"LOREN-THINK-20356-stdout-1356849269265.txt","computername":"LOREN-THINK","pid":20356,"type":"stdout","created":1356849269265},{"file":"LOREN-THINK-20772-stdout-1356850299347.txt","computername":"LOREN-THINK","pid":20772,"type":"stdout","created":1356850299347},{"file":"LOREN-THINK-21068-stdout-1356849645636.txt","computername":"LOREN-THINK","pid":21068,"type":"stdout","created":1356849645636},{"file":"LOREN-THINK-21352-stdout-1356849842456.txt","computername":"LOREN-THINK","pid":21352,"type":"stdout","created":1356849842456},{"file":"LOREN-THINK-21444-stdout-1356850225631.txt","computername":"LOREN-THINK","pid":21444,"type":"stdout","created":1356850225631},{"file":"LOREN-THINK-21488-stdout-1356849080807.txt","computername":"LOREN-THINK","pid":21488,"type":"stdout","created":1356849080807},{"file":"LOREN-THINK-21920-stdout-1356849612380.txt","computername":"LOREN-THINK","pid":21920,"type":"stdout","created":1356849612380},{"file":"LOREN-THINK-22152-stdout-1356849744095.txt","computername":"LOREN-THINK","pid":22152,"type":"stdout","created":1356849744095},{"file":"LOREN-THINK-22432-stderr-1356848952522.txt","computername":"LOREN-THINK","pid":22432,"type":"stderr","created":1356848952522},{"file":"LOREN-THINK-22432-stdout-1356848952522.txt","computername":"LOREN-THINK","pid":22432,"type":"stdout","created":1356848952522},{"file":"LOREN-THINK-22468-stdout-1356850481131.txt","computername":"LOREN-THINK","pid":22468,"type":"stdout","created":1356850481131}];
+        var lastUpdated = 1356850562920;
+        var date = new Date();
+
+        date.setTime(lastUpdated);
+        document.getElementById('lastUpdated').innerHTML = 'Index was last updated ' + date;
+
+        logFiles.sort(function (a, b) {
+            return b.created - a.created;
+        });
+
+        var logFilesTable = document.getElementById("logFilesTable");
+        for (var i = 0; i < logFiles.length; i++) {
+            var logFile = logFiles[i];
+            date.setTime(logFile.created);
+            var row = logFilesTable.insertRow(-1);
+            var computerNameCell = row.insertCell(0);
+            var pidCell = row.insertCell(1);
+            var typeCell = row.insertCell(2);
+            var dateCell = row.insertCell(3);
+            var logCell = row.insertCell(4);
+            computerNameCell.innerHTML = logFile.computername;
+            pidCell.innerHTML = logFile.pid.toString();
+            typeCell.innerHTML = logFile.type;
+            typeCell.setAttribute('class', logFile.type);
+            dateCell.innerHTML = date.toString();
+            logCell.innerHTML = '<a href="' + logFile.file + '">log</a>';
+        };
+
+    </script>
+</body>
+</html>

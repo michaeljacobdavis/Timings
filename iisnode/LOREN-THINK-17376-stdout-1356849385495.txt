@@ -1,0 +1,42 @@
+info: socket.io started
+Express server listening on port NaN in development mode
+debug: setting request GET /socket.io/1/xhr-polling/AI494UZ1zfQJav6Vha9R?t=1356849385427
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 7:::1+0
+debug: set close timeout for client AI494UZ1zfQJav6Vha9R
+warn: client not handshaken client should reconnect
+info: transport end (error)
+debug: cleared close timeout for client AI494UZ1zfQJav6Vha9R
+debug: discarding transport
+debug: discarding transport
+debug: xhr-polling received data packet 0::
+debug: got disconnection packet
+debug: client authorized
+info: handshake authorized h0GLQw07pS0bTUlAhpDw
+debug: setting request GET /socket.io/1/xhr-polling/h0GLQw07pS0bTUlAhpDw?t=1356849386694
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client h0GLQw07pS0bTUlAhpDw
+debug: setting request GET /socket.io/1/xhr-polling/h0GLQw07pS0bTUlAhpDw?t=1356849386708
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"news","args":[{"hello":"world"}]}
+debug: set close timeout for client h0GLQw07pS0bTUlAhpDw
+debug: discarding transport
+debug: cleared close timeout for client h0GLQw07pS0bTUlAhpDw
+debug: xhr-polling received data packet 5:::{"name":"my other event","args":[{"my":"data"}]}
+{ my: 'data' }
+debug: setting request GET /socket.io/1/xhr-polling/h0GLQw07pS0bTUlAhpDw?t=1356849386723
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client h0GLQw07pS0bTUlAhpDw
+debug: served static content /socket.io.js
+debug: served static content /socket.io.js
+debug: served static content /socket.io.js
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client h0GLQw07pS0bTUlAhpDw
+debug: xhr-polling closed due to exceeded duration

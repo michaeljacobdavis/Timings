@@ -1,0 +1,109 @@
+info: socket.io started
+Express server listening on port NaN in development mode
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized Jlj3TbIF06mEwHsPiuE4
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized 2c9MvjEFliPa3ghPiuE5
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849679275
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849679299
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"this","args":[{"will":"be received by everyone"}]}
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: discarding transport
+debug: cleared close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849679330
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/2c9MvjEFliPa3ghPiuE5?t=1356849680482
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client 2c9MvjEFliPa3ghPiuE5
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"this","args":[{"will":"be received by everyone"}]}
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/2c9MvjEFliPa3ghPiuE5?t=1356849680497
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"this","args":[{"will":"be received by everyone"}]}
+debug: set close timeout for client 2c9MvjEFliPa3ghPiuE5
+debug: discarding transport
+debug: cleared close timeout for client 2c9MvjEFliPa3ghPiuE5
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849680511
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/2c9MvjEFliPa3ghPiuE5?t=1356849680534
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client 2c9MvjEFliPa3ghPiuE5
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized Fgg-HAcvhh_hEt2BiuE6
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client 2c9MvjEFliPa3ghPiuE5
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849700545
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/Fgg-HAcvhh_hEt2BiuE6?t=1356849710012
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client Fgg-HAcvhh_hEt2BiuE6
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"this","args":[{"will":"be received by everyone"}]}
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/Fgg-HAcvhh_hEt2BiuE6?t=1356849710030
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"this","args":[{"will":"be received by everyone"}]}
+debug: set close timeout for client Fgg-HAcvhh_hEt2BiuE6
+debug: discarding transport
+debug: cleared close timeout for client Fgg-HAcvhh_hEt2BiuE6
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849710038
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/Fgg-HAcvhh_hEt2BiuE6?t=1356849710062
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Fgg-HAcvhh_hEt2BiuE6
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client Fgg-HAcvhh_hEt2BiuE6
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/Jlj3TbIF06mEwHsPiuE4?t=1356849730077
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: setting request GET /socket.io/1/xhr-polling/Fgg-HAcvhh_hEt2BiuE6?t=1356849730096
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Fgg-HAcvhh_hEt2BiuE6
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client Jlj3TbIF06mEwHsPiuE4
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
